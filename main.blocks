@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="t%h~Q#SroWq|29Fwu3ND" x="0" y="0"/><block type="device_forever" id="bl2,K.#K^g*;7sW9hRnc" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="G8[RbN8QX-;i^Qv2#3cE"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="$DNn!~]65DVID39yiQbQ"><field name="LEDS">`
+        # # # # # 
+        # # . # # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="OLED_writeStringNewLine" id="v3s+d^bH0E+[ehvwcEZU"><value name="str"><shadow type="text" id="=Ni8~8+`U[k|~fL4aROQ"><field name="TEXT">Hello and welcome to your ELECTROFREAKS home! </field></shadow></value></block></next></block></next></block></statement></block></xml>
